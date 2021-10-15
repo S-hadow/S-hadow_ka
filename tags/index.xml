@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on BLACK★ROCK SHOOTER</title>
+    <link>https://example.com/tags/</link>
+    <description>Recent content in Tags on BLACK★ROCK SHOOTER</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <managingEditor>511679493@qq.com (Shadow)</managingEditor>
+    <webMaster>511679493@qq.com (Shadow)</webMaster>
+    <copyright>© 2021 &lt;a href=&#34;https://github.com/miiiku/hugo-theme-kagome&#34;&gt;kagome&lt;/a&gt;.</copyright>
+    <lastBuildDate>Fri, 15 Mar 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>hlj</title>
+      <link>https://example.com/tags/hlj/</link>
+      <pubDate>Fri, 15 Mar 2019 00:00:00 +0000</pubDate>
+      <author>511679493@qq.com (Shadow)</author>
+      <guid>https://example.com/tags/hlj/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>emoji</title>
+      <link>https://example.com/tags/emoji/</link>
+      <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
+      <author>511679493@qq.com (Shadow)</author>
+      <guid>https://example.com/tags/emoji/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

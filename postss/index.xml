@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Postsses on BLACK★ROCK SHOOTER</title>
+    <link>https://example.com/postss/</link>
+    <description>Recent content in Postsses on BLACK★ROCK SHOOTER</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <managingEditor>511679493@qq.com (Shadow)</managingEditor>
+    <webMaster>511679493@qq.com (Shadow)</webMaster>
+    <copyright>© 2021 &lt;a href=&#34;https://github.com/miiiku/hugo-theme-kagome&#34;&gt;kagome&lt;/a&gt;.</copyright>
+    <lastBuildDate>Fri, 15 Mar 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/postss/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>222222222222</title>
+      <link>https://example.com/postss/ceshi/</link>
+      <pubDate>Fri, 15 Mar 2019 00:00:00 +0000</pubDate>
+      <author>511679493@qq.com (Shadow)</author>
+      <guid>https://example.com/postss/ceshi/</guid>
+      <description>asdfggrr sdafg</description>
+    </item>
+    
+    <item>
+      <title>Emoji Support</title>
+      <link>https://example.com/postss/ceui/</link>
+      <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
+      <author>511679493@qq.com (Shadow)</author>
+      <guid>https://example.com/postss/ceui/</guid>
+      <description>Emoji can be enabled in a Hugo project in a number of ways.</description>
+    </item>
+    
+    <item>
+      <title>日记测试</title>
+      <link>https://example.com/postss/%E6%97%A5%E8%AE%B0%E6%B5%8B%E8%AF%95-copy/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>511679493@qq.com (Shadow)</author>
+      <guid>https://example.com/postss/%E6%97%A5%E8%AE%B0%E6%B5%8B%E8%AF%95-copy/</guid>
+      <description>搭建博客用了一天多时间，还没搭好。</description>
+    </item>
+    
+    <item>
+      <title>日记测试 还是那么废物</title>
+      <link>https://example.com/postss/%E6%97%A5%E8%AE%B0%E6%B5%8B%E8%AF%95/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>511679493@qq.com (Shadow)</author>
+      <guid>https://example.com/postss/%E6%97%A5%E8%AE%B0%E6%B5%8B%E8%AF%95/</guid>
+      <description>搭建博客用了一天多时间，还没搭好。</description>
+    </item>
+    
+    <item>
+      <title>聚合标签🏷️</title>
+      <link>https://example.com/postss/%E6%B5%8B%E8%AF%95/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>511679493@qq.com (Shadow)</author>
+      <guid>https://example.com/postss/%E6%B5%8B%E8%AF%95/</guid>
+      <description>term 如我们有个摄影这样的一个term，它属于tags这个taxonomy下，则我们在content/tags/摄影/下新建一个_index.m</description>
+    </item>
+    
+  </channel>
+</rss>
